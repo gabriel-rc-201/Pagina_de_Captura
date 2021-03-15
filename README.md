@@ -12,3 +12,7 @@ avisar todo mundo que se inscreveu de uma unica vez.
 Tambem pode servir para toda vez q um blog quiser avisar  
 sobre um post novo poder avisar para as pessoas que se  
 se inscreveram.
+
+## Tela do projeto:
+
+![captura de tela](images/CapturaDeTela.png)
