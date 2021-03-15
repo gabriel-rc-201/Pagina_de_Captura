@@ -97,3 +97,17 @@ footer {
 .description h3 {
   font-size: 24px;
 }
+
+@media screen and (max-width: 600px) {
+  .formContainer {
+    max-width: 100%;
+  }
+
+  .description {
+    max-width: 100%;
+  }
+
+  .description h3 {
+    font-size: 22px;
+  }
+}
